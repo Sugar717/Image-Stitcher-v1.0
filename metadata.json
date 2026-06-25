@@ -1,0 +1,6 @@
+{
+  "name": "Microscope Image Stitcher",
+  "description": "An interactive web-based tool for cropping, aligning, and stitching microscope photos into a single high-resolution image with precision overlap and micro-offset controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
